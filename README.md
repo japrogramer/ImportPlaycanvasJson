@@ -1,7 +1,7 @@
 Playcanvas Json importer
 ========================
 <p align="center">
-  <img width="460" height="300" src="./screenshots/protomolecule.png">
+  <img width="10%%" height="auto" src="./screenshots/protomolecule.png">
 </p>
 
 Motivation
