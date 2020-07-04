@@ -6,9 +6,6 @@ Playcanvas Json importer
 <p align="center">
   <img sytle="min-width:100%;" height="auto" src="./screenshots/Engine.png">
 </p>
-<p align="center">
-  <img sytle="min-width:100%;" height="auto" src="./screenshots/protomolecule.png">
-</p>
 
 Motivation
 
